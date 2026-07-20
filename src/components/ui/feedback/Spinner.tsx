@@ -18,3 +18,5 @@ export function Spinner({ size = "md", className }: SpinnerProps) {
     </div>
   );
 }
+
+// improvement 9-1
