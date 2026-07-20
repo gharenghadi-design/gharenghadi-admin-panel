@@ -25,3 +25,5 @@ export function Select({ label, options, placeholder, className, ...props }: Sel
     </div>
   );
 }
+
+// improvement 9-6
