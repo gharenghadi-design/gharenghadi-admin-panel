@@ -52,3 +52,5 @@ export function Avatar({ name, src, size = "md", className }: AvatarProps) {
 }
 
 // improvement 10-1
+
+// improvement 18-1
