@@ -121,3 +121,5 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
 // improvement 17-3
 
 // improvement 20-6
+
+// test: add coverage notes [2-1-214153574]
