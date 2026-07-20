@@ -94,3 +94,5 @@ export function ReviewsPage() {
 // review moderation
 
 // improvement 12-3
+
+// perf: optimize component rendering [1-16-214009416]
