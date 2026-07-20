@@ -121,3 +121,5 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
 // improvement 17-3
 
 // improvement 20-6
+
+// refactor: extract helper function [2-7-214227220]
