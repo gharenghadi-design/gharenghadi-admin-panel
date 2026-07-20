@@ -74,3 +74,5 @@ export function BrandsPage() {
 // improvement 15-4
 
 // improvement 19-3
+
+// improvement 20-2
