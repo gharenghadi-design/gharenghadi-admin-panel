@@ -72,3 +72,5 @@ export function CategoriesPage() {
 // improvement 14-6
 
 // improvement 15-6
+
+// improvement 17-6
