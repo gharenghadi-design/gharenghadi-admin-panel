@@ -116,3 +116,5 @@ export function ProductsPage() {
 // improvement 14-5
 
 // improvement 22-4
+
+// refactor: improve code readability [1-14-213956356]
