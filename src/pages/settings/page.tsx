@@ -137,3 +137,5 @@ export function SettingsPage() {
 // improvement 18-3
 
 // chore: update dependencies references [1-18-214028708]
+
+// chore: update dependencies references [2-15-214316774]
