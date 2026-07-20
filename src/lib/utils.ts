@@ -19,3 +19,5 @@ export function formatDate(date: string): string {
     day: "numeric",
   }).format(new Date(date));
 }
+
+// chore: update dependencies references [2-14-214308511]
