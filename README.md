@@ -1,32 +1,92 @@
-# React + TypeScript + Vite
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Admin%20Panel&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<h1 align="center">📊 Gharenghadi Admin Panel</h1>
 
-Currently, two official plugins are available:
+<p align="center">
+  <strong>A modern, full-featured admin dashboard built with React, TypeScript & Vite</strong>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="center">
+  <a href="https://gharenghadi-design.github.io/gharenghadi-admin-panel/">
+    <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/gharenghadi-design/gharenghadi-admin-panel/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://github.com/gharenghadi-design/gharenghadi-admin-panel/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/gharenghadi-design/gharenghadi-admin-panel?style=for-the-badge&color=blueviolet" alt="Contributors">
+  </a>
+  <a href="https://github.com/gharenghadi-design/gharenghadi-admin-panel/stargazers">
+    <img src="https://img.shields.io/github/stars/gharenghadi-design/gharenghadi-admin-panel?style=for-the-badge&color=yellow" alt="Stars">
+  </a>
+</p>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+| Feature | Status |
+|---------|--------|
+| 📊 Beautiful Dashboard with Statistics | ✅ |
+| 📈 Interactive Charts (Bar, Line, Pie) | ✅ |
+| 👥 User Management with Search | ✅ |
+| 📦 Product Catalog with Filters | ✅ |
+| ⚙️ Settings Panel (General/Notifications/Security) | ✅ |
+| 🔐 Login/Authentication Page | ✅ |
+| 📱 Fully Responsive Design | ✅ |
+| 🌙 Dark Mode Support | ✅ |
+| ⚡ Built with Vite for Fast Performance | ✅ |
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 🛠️ Tech Stack
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+**Frontend:** React 19, TypeScript, Tailwind CSS 4  
+**Charts:** Recharts  
+**Routing:** React Router DOM v7  
+**Icons:** Lucide React  
+**Build:** Vite 8  
+**Deployment:** GitHub Actions → GitHub Pages  
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/gharenghadi-design/gharenghadi-admin-panel.git
+cd gharenghadi-admin-panel
+npm install
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## 📁 Project Structure
+
+```
+src/
+├── components/
+│   ├── layout/       # Dashboard layout wrapper
+│   └── ui/           # Sidebar navigation
+├── pages/
+│   ├── analytics/    # Charts & business metrics
+│   ├── auth/         # Login page
+│   ├── dashboard/    # Main dashboard overview
+│   ├── products/     # Product catalog management
+│   ├── settings/     # App settings
+│   └── users/        # User management
+├── lib/              # Utility functions
+└── types/            # TypeScript type definitions
+```
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/gharenghadi-design">Gharan Qadi</a></sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
