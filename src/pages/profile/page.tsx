@@ -74,3 +74,5 @@ export function ProfilePage() {
     </div>
   );
 }
+
+// profile validation
