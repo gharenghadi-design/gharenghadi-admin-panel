@@ -34,3 +34,5 @@ export function Alert({ children, variant = "info", title, className }: AlertPro
     </div>
   );
 }
+
+// improvement 15-1
