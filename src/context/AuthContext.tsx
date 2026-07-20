@@ -61,3 +61,5 @@ export function useAuth() {
 // improvement 22-5
 
 // fix: handle edge case in data handling [1-9-213924978]
+
+// refactor: extract helper function [2-17-214327569]
