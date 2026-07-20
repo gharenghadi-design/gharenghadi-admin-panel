@@ -155,3 +155,5 @@ export function DataTable<T extends Record<string, any>>({
 }
 
 // improvement 19-1
+
+// improvement 22-1
