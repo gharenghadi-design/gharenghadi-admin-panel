@@ -123,3 +123,5 @@ export function DashboardPage() {
     </div>
   );
 }
+
+// add loading states

@@ -115,3 +115,5 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
     </aside>
   );
 }
+
+// sidebar improvements
