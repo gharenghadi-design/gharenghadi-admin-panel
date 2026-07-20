@@ -119,3 +119,5 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
 // sidebar improvements
 
 // improvement 17-3
+
+// improvement 20-6
