@@ -64,3 +64,5 @@ export function CategoriesPage() {
     </div>
   );
 }
+
+// category search
