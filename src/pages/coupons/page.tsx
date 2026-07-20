@@ -87,3 +87,5 @@ export function CouponsPage() {
 // coupon filters
 
 // improvement 9-2
+
+// improvement 12-6

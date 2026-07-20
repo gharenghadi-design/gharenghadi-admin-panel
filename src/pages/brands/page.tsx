@@ -68,3 +68,5 @@ export function BrandsPage() {
 }
 
 // brand search
+
+// improvement 12-1
