@@ -131,3 +131,5 @@ export function SettingsPage() {
 }
 
 // settings sync
+
+// improvement 10-2
