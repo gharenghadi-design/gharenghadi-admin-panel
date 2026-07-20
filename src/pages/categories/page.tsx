@@ -74,3 +74,5 @@ export function CategoriesPage() {
 // improvement 15-6
 
 // improvement 17-6
+
+// feat: enhance user experience [2-5-214216478]
