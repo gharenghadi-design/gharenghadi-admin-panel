@@ -66,3 +66,5 @@ export function BrandsPage() {
     </div>
   );
 }
+
+// brand search
