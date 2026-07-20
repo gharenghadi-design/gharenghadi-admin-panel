@@ -19,3 +19,5 @@ export function formatDate(date: string): string {
     day: "numeric",
   }).format(new Date(date));
 }
+
+// refactor: improve code readability [2-18-214333040]
