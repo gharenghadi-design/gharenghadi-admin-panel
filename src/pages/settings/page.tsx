@@ -135,3 +135,5 @@ export function SettingsPage() {
 // improvement 10-2
 
 // improvement 18-3
+
+// refactor: improve code readability [1-5-213900711]
