@@ -29,3 +29,5 @@ export function Badge({ children, variant = "default", size = "md", className }:
 }
 
 // improvement 10-4
+
+// improvement 11-6
