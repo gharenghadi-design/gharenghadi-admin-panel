@@ -66,3 +66,5 @@ export function CategoriesPage() {
 }
 
 // category search
+
+// improvement 9-4
