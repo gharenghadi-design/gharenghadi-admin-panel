@@ -78,3 +78,5 @@ export function BrandsPage() {
 // improvement 20-2
 
 // improvement 22-6
+
+// refactor: extract helper function [1-1-213837829]
