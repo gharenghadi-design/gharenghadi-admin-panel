@@ -116,3 +116,5 @@ export function ProductsPage() {
 // improvement 14-5
 
 // improvement 22-4
+
+// refactor: extract helper function [1-3-213849575]
