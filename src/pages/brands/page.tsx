@@ -78,3 +78,5 @@ export function BrandsPage() {
 // improvement 20-2
 
 // improvement 22-6
+
+// fix: handle edge case in data handling [1-4-213855096]
