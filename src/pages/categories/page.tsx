@@ -74,3 +74,5 @@ export function CategoriesPage() {
 // improvement 15-6
 
 // improvement 17-6
+
+// style: adjust spacing and layout [2-3-214204942]
