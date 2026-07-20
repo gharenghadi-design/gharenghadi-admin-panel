@@ -13,6 +13,7 @@ import type { SidebarItem } from "../../types";
 
 const sidebarItems: SidebarItem[] = [
   { label: "Dashboard", icon: "dashboard", path: "/" },
+  { label: "Analytics", icon: "analytics", path: "/analytics" },
   { label: "Users", icon: "users", path: "/users" },
   { label: "Products", icon: "products", path: "/products" },
   { label: "Settings", icon: "settings", path: "/settings" },
@@ -20,6 +21,7 @@ const sidebarItems: SidebarItem[] = [
 
 const iconMap: Record<string, React.ReactNode> = {
   dashboard: <LayoutDashboard size={20} />,
+  analytics: <LayoutDashboard size={20} />,
   users: <Users size={20} />,
   products: <Package size={20} />,
   settings: <Settings size={20} />,
