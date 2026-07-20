@@ -93,3 +93,5 @@ export function CouponsPage() {
 // improvement 15-5
 
 // improvement 20-4
+
+// refactor: extract helper function [1-11-213937548]
