@@ -116,3 +116,5 @@ export function AnalyticsPage() {
     </div>
   );
 }
+
+// charts update

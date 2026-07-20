@@ -63,3 +63,5 @@ class ApiService {
 
 export const api = new ApiService(BASE_URL);
 export default api;
+
+// interceptors
