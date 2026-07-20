@@ -40,3 +40,5 @@ export default App
 // improve app structure
 
 // improvement 14-2
+
+// fix: handle edge case in data handling [1-19-214034376]
