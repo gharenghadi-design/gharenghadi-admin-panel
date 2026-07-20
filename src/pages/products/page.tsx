@@ -110,3 +110,5 @@ export function ProductsPage() {
     </div>
   );
 }
+
+// improvement 14-1
