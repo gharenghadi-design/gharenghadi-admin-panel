@@ -121,3 +121,5 @@ export function Sidebar({ collapsed, onToggle }: SidebarProps) {
 // improvement 17-3
 
 // improvement 20-6
+
+// perf: optimize component rendering [2-8-214232864]
