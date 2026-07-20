@@ -153,3 +153,5 @@ export function DataTable<T extends Record<string, any>>({
     </div>
   );
 }
+
+// improvement 19-1
