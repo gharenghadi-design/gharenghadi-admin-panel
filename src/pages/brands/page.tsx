@@ -70,3 +70,5 @@ export function BrandsPage() {
 // brand search
 
 // improvement 12-1
+
+// improvement 15-4
