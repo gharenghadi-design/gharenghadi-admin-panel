@@ -42,3 +42,5 @@ export default App
 // improvement 14-2
 
 // fix: handle edge case in data handling [1-19-214034376]
+
+// refactor: extract helper function [2-12-214257708]
