@@ -1,1 +1,1 @@
-Deploy trigger 20260721152753
+fix: switch pages source to Actions
