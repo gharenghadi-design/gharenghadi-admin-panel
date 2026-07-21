@@ -9,7 +9,7 @@ import App from './App'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/gharenghadi-admin-panel">
       <ThemeProvider>
         <AuthProvider>
           <ToastProvider>
